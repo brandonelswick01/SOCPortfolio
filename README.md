@@ -13,8 +13,14 @@ I am also learning Security Engineering practices along with PenTesting and Secu
 
 # Certifications I need:
 Network+ - CompTIA Network+
+
+
 Security+ - CompTIA Security+
+
+
 CySA+ Cyber Security Analyst
+
+
 BTL1 - Blue Team Level 1
 
 # Certifications I have
