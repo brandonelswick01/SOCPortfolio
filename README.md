@@ -3,7 +3,7 @@ My portfolio for Security Operations Analysis and Incident Response
 
 # Overview
   Hello, I am Brandon Elswick, I am 23. I enjoy the challenge of understanding how machines work and how to keep them secure.
-In this portfolio you will see a mix of SOC Analysis, Incident Response, and PenTesting. Please refer to [2026-IVN-01]. I was able
+In this portfolio you will see a mix of SOC Analysis, Incident Response, and PenTesting. Please refer to [2026-IVN-01] inside my Portfolio. I was able
 to achieve this with no certifications currently as of Feb 17, 2026
 
 # My journey
